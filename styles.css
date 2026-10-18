@@ -178,3 +178,41 @@ ol.les li + li { border-top: 1px solid var(--border); }
 .grp { margin: 10px 0; } .grp b { display: block; font-size: .85rem; color: var(--accent-ink); }
 
 footer { text-align: center; color: var(--muted); font-size: .85rem; padding: 4px 16px 28px; }
+
+/* Familia: quién lee, PIN, tablero */
+.avatar {
+  flex: none; width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center;
+  font-weight: 700; font-size: 1.1rem; color: #fff; background: var(--av, var(--primary));
+}
+.avatar.sm { width: 26px; height: 26px; font-size: .8rem; }
+.gate { text-align: center; padding-top: 12px; }
+.gate h2 { color: var(--heading); margin: 8px 0 4px; }
+.people { display: grid; gap: 10px; margin: 18px 0; text-align: left; }
+.person {
+  display: flex; align-items: center; gap: 14px; width: 100%; cursor: pointer;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 14px 16px;
+  box-shadow: var(--shadow); font-size: 1.05rem; text-align: left;
+}
+.person > span:last-child { display: block; }
+.person:hover { border-color: var(--accent); }
+.person small { display: block; color: var(--muted); font-size: .8rem; }
+.pin-form { display: grid; gap: 10px; max-width: 280px; margin: 18px auto; }
+.pin-form input {
+  font: inherit; font-size: 1.6rem; letter-spacing: .5em; text-align: center; padding: 10px;
+  border-radius: 12px; border: 1px solid var(--border); background: var(--surface); color: var(--text);
+}
+.error { color: var(--red); font-weight: 600; min-height: 1.4em; margin: 0; }
+.link-btn { background: none; border: 0; color: var(--muted); text-decoration: underline; cursor: pointer; font-size: .85rem; padding: 6px; }
+#who { display: inline-flex; align-items: center; gap: 6px; padding: 3px 10px 3px 3px; }
+.board-row { display: flex; gap: 12px; align-items: flex-start; padding: 12px 0; }
+.board-row + .board-row { border-top: 1px solid var(--border); }
+.board-row > div { flex: 1; min-width: 0; }
+.board-row h3 { margin: 0; font-size: 1.05rem; display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+.board-row h3 .streak { font-size: .85rem; color: var(--accent-ink); }
+.board-row p { margin: 2px 0 6px; font-size: .88rem; color: var(--muted); }
+.board-row.me h3 { color: var(--heading); }
+.toast {
+  position: fixed; left: 50%; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
+  background: #222; color: #fff; padding: 10px 16px; border-radius: 999px; font-size: .9rem; z-index: 20;
+  max-width: calc(100% - 32px); box-shadow: 0 4px 16px rgba(0,0,0,.25);
+}
