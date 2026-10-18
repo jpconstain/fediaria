@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#2e4a6b">
+<title>Fe Diaria</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1 id="title">Fe Diaria</h1>
+  <div class="controls">
+    <span class="seg">
+      <button data-action="lang" data-lang="es" aria-pressed="true">ES</button>
+      <button data-action="lang" data-lang="en" aria-pressed="false">EN</button>
+    </span>
+    <button data-action="font" data-step="-1" id="font-down" aria-label="">A−</button>
+    <button data-action="font" data-step="1" id="font-up" aria-label="">A+</button>
+    <button data-action="theme" id="theme-btn" aria-label="">◐</button>
+  </div>
+</header>
+
+<div class="tabs" role="tablist">
+  <button role="tab" data-tab="hoy" id="tab-hoy"></button>
+  <button role="tab" data-tab="ruta" id="tab-ruta"></button>
+  <button role="tab" data-tab="servicio" id="tab-servicio"></button>
+  <button role="tab" data-tab="biblia" id="tab-biblia"></button>
+</div>
+
+<main>
+  <section id="panel-hoy" role="tabpanel"></section>
+  <section id="panel-ruta" role="tabpanel" hidden></section>
+  <section id="panel-servicio" role="tabpanel" hidden></section>
+  <section id="panel-biblia" role="tabpanel" hidden></section>
+</main>
+<footer id="footer"></footer>
+
+<script src="data/lecciones.js"></script>
+<script src="data/servicios.js"></script>
+<script src="data/biblia.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
