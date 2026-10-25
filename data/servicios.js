@@ -6,6 +6,57 @@ const CHURCH_URL = "https://www.wwjdchurch.com/servicio";
 
 const SERVICIOS = [
   {
+    "video": "https://www.youtube.com/watch?v=kGdf6ilv4zY",
+    "fecha": {
+      "es": "Domingo 25 de octubre de 2026",
+      "en": "Sunday, October 25, 2026"
+    },
+    "titulo": {
+      "es": "La muerte no es el fin",
+      "en": "Death Is Not the End"
+    },
+    "serie": {
+      "es": "Serie: Juan · Pr. Mario Ferro y Pra. Nelly Moreno",
+      "en": "Series: John · Pastors Mario Ferro & Nelly Moreno"
+    },
+    "pasaje": {
+      "es": "Juan 11:1-4",
+      "en": "John 11:1-4"
+    },
+    "idea": {
+      "es": "Cuando Lázaro se enfermó, sus hermanas no le recordaron a Jesús lo que merecían. Solo le dijeron: \"el que amas está enfermo\". Jesús respondió que esa enfermedad era para la gloria de Dios. Aunque las cosas se vean mal, Dios se glorifica en medio de la prueba, y por la fe en Jesús podemos estar seguros de que la muerte no es el fin.",
+      "en": "When Lazarus got sick, his sisters didn't remind Jesus of what they deserved. They simply said, \"the one you love is sick.\" Jesus answered that this sickness was for God's glory. Even when things look bad, God is glorified in the middle of the trial, and through faith in Jesus we can be sure that death is not the end."
+    },
+    "puntos": {
+      "es": [
+        "María, Marta y Lázaro eran muy cercanos a Jesús. Juan adelanta que María fue la que ungió a Jesús con un perfume carísimo (hoy costaría unos $65.000) y le secó los pies con su cabello. En una época en que a las mujeres no se las tomaba en cuenta, Jesús les dio dignidad y un lugar importante.",
+        "Las hermanas no mencionaron sus méritos. Solo dijeron: \"Señor, el que amas está enfermo\", y dejaron la decisión en manos de Jesús. Nuestra naturaleza dice \"merecía mucho y recibí poco\", pero el evangelio enseña que merecíamos la muerte y recibimos perdón y gracia.",
+        "Está bien sentirnos tristes o sentir lástima de nosotros mismos; esos sentimientos son humanos y válidos. Pero podemos pedirle al Espíritu Santo que nos ayude a dar un paso más: dejar de mirarnos solo a nosotros y llevar el amor de Dios a quienes sufren.",
+        "\"Esta enfermedad no es para muerte, sino para la gloria de Dios\" (como con el ciego de Juan 9). Romanos 8:28 nos recuerda que a los que aman a Dios todo les ayuda a bien. No hay que avergonzarse de estar enfermos, deprimidos o sin trabajo: no es un castigo de Dios, y podemos descansar en Él. (Nota: esto es una enseñanza espiritual, no un consejo médico; ante problemas de salud física o emocional, busca también ayuda profesional).",
+        "Nadie va al cielo por ser bueno o por haber sufrido. La salvación es por fe en Jesús (Romanos 10:9). El pastor contó la historia de un amigo actor que rechazó a Cristo y murió pocos días después. Cada persona elige entre la vida y la muerte, y hoy podemos elegir la vida eterna."
+      ],
+      "en": [
+        "Mary, Martha and Lazarus were very close to Jesus. John jumps ahead to tell us that Mary was the one who anointed Jesus with a very expensive perfume (about $65,000 today) and wiped His feet with her hair. In a time when women were ignored, Jesus gave them dignity and an important place.",
+        "The sisters didn't list their merits. They simply said, \"Lord, the one you love is sick,\" and left the decision with Jesus. Our nature says \"I deserved so much and got so little,\" but the gospel teaches that we deserved death and received forgiveness and grace.",
+        "It's okay to feel sad or to feel sorry for ourselves; those feelings are human and valid. But we can ask the Holy Spirit to help us take one more step: stop looking only at ourselves and bring God's love to people who are hurting.",
+        "\"This sickness will not end in death; it is for God's glory\" (just like the blind man in John 9). Romans 8:28 reminds us that all things work together for good for those who love God. We don't need to be ashamed of being sick, depressed or out of work: it is not God punishing us, and we can rest in Him. (Note: this is spiritual teaching, not medical advice; for physical or emotional health problems, please also seek professional help.)",
+        "No one goes to heaven for being good or for having suffered. Salvation is through faith in Jesus (Romans 10:9). The pastor told the story of an actor friend who rejected Christ and died a few days later. Each person chooses between life and death, and today we can choose eternal life."
+      ]
+    },
+    "versiculo": {
+      "es": "\"Oyéndolo Jesús, dijo: Esta enfermedad no es para muerte, sino para la gloria de Dios, para que el Hijo de Dios sea glorificado por ella.\" — Juan 11:4 (RVR1960)",
+      "en": "\"When he heard this, Jesus said, 'This sickness will not end in death. No, it is for God's glory so that God's Son may be glorified through it.'\" — John 11:4 (NIV)"
+    },
+    "pregunta": {
+      "es": "Cuando pasamos por una prueba, ¿le hablamos a Dios desde lo que creemos merecer o desde su amor por nosotros? Y si hoy alguien nos preguntara a dónde vamos cuando muramos, ¿podríamos responder con seguridad?",
+      "en": "When we go through a trial, do we come to God based on what we think we deserve, or based on His love for us? And if someone asked us today where we will go when we die, could we answer with confidence?"
+    },
+    "oracion": {
+      "es": "Padre, gracias porque nos amas tanto que enviaste a Jesús a morir por nuestros pecados y lo levantaste de los muertos. Merecíamos la muerte y nos diste perdón y vida. Te entregamos nuestras enfermedades, tristezas y preocupaciones, y confiamos en que todo nos ayudará a bien. Glorifícate en nuestra familia, quita todo temor y úsanos para llevar tu amor a otros. En el nombre de Jesús, amén.",
+      "en": "Father, thank You for loving us so much that You sent Jesus to die for our sins and raised Him from the dead. We deserved death, and You gave us forgiveness and life. We give You our sicknesses, sadness and worries, and we trust that all things will work together for our good. Be glorified in our family, take away all fear, and use us to bring Your love to others. In Jesus' name, amen."
+    }
+  },
+  {
     "video": "https://www.youtube.com/watch?v=88BTeeJkBbc",
     "fecha": {
       "es": "18 de octubre de 2026",
