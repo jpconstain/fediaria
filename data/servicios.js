@@ -6,6 +6,57 @@ const CHURCH_URL = "https://www.wwjdchurch.com/servicio";
 
 const SERVICIOS = [
   {
+    "video": "https://www.youtube.com/watch?v=ZB8SFBhX_Wg",
+    "fecha": {
+      "es": "1 de noviembre de 2026",
+      "en": "November 1, 2026"
+    },
+    "titulo": {
+      "es": "La muerte no es el fin (Parte II)",
+      "en": "Death Is Not the End (Part II)"
+    },
+    "serie": {
+      "es": "Serie: Juan · Pr. Mario Ferro y Nelly Moreno",
+      "en": "Series: John · Pastors Mario Ferro & Nelly Moreno"
+    },
+    "pasaje": {
+      "es": "Juan 11:5-44",
+      "en": "John 11:5-44"
+    },
+    "idea": {
+      "es": "Con la historia de Lázaro aprendemos que Jesús es la resurrección y la vida, así que quien cree en Él no tiene que temerle a la muerte. Aunque no entendamos lo que Dios hace, Él sigue en control y le duele lo que a nosotros nos duele. Mientras estemos en esta tierra tenemos una razón para decir «quiero vivir»: contarle al mundo lo que Jesús ha hecho en nuestra vida.",
+      "en": "Through the story of Lazarus we learn that Jesus is the resurrection and the life, so whoever believes in Him does not need to fear death. Even when we don't understand what God is doing, He is still in control, and what hurts us hurts Him too. While we are on this earth we have a reason to say \"I want to live\": to tell the world what Jesus has done in our lives."
+    },
+    "puntos": {
+      "es": [
+        "Dios está en control aunque no lo entendamos: Jesús se quedó dos días más antes de ir a ver a Lázaro, y los discípulos no entendían sus palabras. Los planes de Dios son más altos que los nuestros. El pastor contó que hace una lista de todo lo que Dios ha hecho por él, porque nuestra mente se acuerda de lo malo y se olvida de lo bueno.",
+        "«Yo soy la resurrección y la vida»: quien cree en Jesús pasa de muerte a vida, y esa vida es para siempre. Por eso podemos estar seguros de nuestra salvación (Romanos 10:9) y no vivir con miedo a la muerte.",
+        "«Jesús lloró» (Juan 11:35): a Dios le importamos. Jesús siente nuestro dolor y nuestras lágrimas, y se hizo hombre para vivir la vida humana por completo.",
+        "«Quiero vivir»: con la historia del anciano que volvió a tener propósito sembrando una huerta, y con el testimonio de Don Piper, el pastor enseñó que cada herida puede tener un propósito en Cristo y servir para contar lo que Dios ha hecho. (Nota: esto es una enseñanza de fe, no un consejo médico; ante cualquier enfermedad, consulta a un profesional de la salud).",
+        "Gratitud en vez de queja: la pastora Nelly dejó de tarea hacer una lista de las cosas por las que nos quejamos y empezar a dar gracias y a bendecir cada una, confiando en que a los que aman a Dios todas las cosas les ayudan a bien."
+      ],
+      "en": [
+        "God is in control even when we don't understand: Jesus stayed two more days before going to Lazarus, and the disciples didn't understand what He meant. God's plans are higher than ours. The pastor shared that he keeps a list of everything God has done for him, because our minds remember the bad and forget the good.",
+        "\"I am the resurrection and the life\": whoever believes in Jesus passes from death to life, and that life lasts forever. That's why we can be sure of our salvation (Romans 10:9) and not live in fear of death.",
+        "\"Jesus wept\" (John 11:35): we matter to God. Jesus feels our pain and our tears, and He became a man to live human life to the full.",
+        "\"I want to live\": through the story of an elderly man who found purpose again by planting a garden, and the testimony of Don Piper, the pastor taught that every wound can have a purpose in Christ and become a way to share what God has done. (Note: this is a teaching of faith, not medical advice; for any illness, please see a health professional.)",
+        "Gratitude instead of complaining: Pastor Nelly gave homework to write a list of the things we complain about, then give thanks for each one and bless it, trusting that all things work together for good for those who love God."
+      ]
+    },
+    "versiculo": {
+      "es": "\"Le dijo Jesús: Yo soy la resurrección y la vida; el que cree en mí, aunque esté muerto, vivirá.\" — Juan 11:25 (RVR1960)",
+      "en": "\"Jesus said to her, 'I am the resurrection and the life. The one who believes in me will live, even though they die.'\" — John 11:25 (NIV)"
+    },
+    "pregunta": {
+      "es": "¿Qué cosas buenas ha hecho Dios en nuestra familia que se nos han olvidado? Hagamos juntos una lista y, en vez de quejarnos, demos gracias por cada una.",
+      "en": "What good things has God done in our family that we have forgotten? Let's make a list together and, instead of complaining, give thanks for each one."
+    },
+    "oracion": {
+      "es": "Padre, gracias porque Jesús es la resurrección y la vida y porque estás en control aunque no entendamos todo. Gracias porque te importa nuestro dolor. Quita de nosotros el miedo y la queja, llénanos de gratitud y danos ganas de vivir para contarles a otros lo que has hecho en nuestra vida. En el nombre de Jesús, amén.",
+      "en": "Father, thank You that Jesus is the resurrection and the life, and that You are in control even when we don't understand everything. Thank You for caring about our pain. Take away our fear and complaining, fill us with gratitude, and give us the desire to live so we can tell others what You have done in our lives. In Jesus' name, amen."
+    }
+  },
+  {
     "video": "https://www.youtube.com/watch?v=kGdf6ilv4zY",
     "fecha": {
       "es": "Domingo 25 de octubre de 2026",
