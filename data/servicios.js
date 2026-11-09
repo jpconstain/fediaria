@@ -6,6 +6,57 @@ const CHURCH_URL = "https://www.wwjdchurch.com/servicio";
 
 const SERVICIOS = [
   {
+    "video": "https://www.youtube.com/watch?v=HNrxKBanwpM",
+    "fecha": {
+      "es": "8 de noviembre de 2026",
+      "en": "November 8, 2026"
+    },
+    "titulo": {
+      "es": "La incredulidad",
+      "en": "Disbelief"
+    },
+    "serie": {
+      "es": "Serie: Juan · Pr. Mario Ferro y Nelly Moreno",
+      "en": "Series: John · Pastors Mario Ferro & Nelly Moreno"
+    },
+    "pasaje": {
+      "es": "Juan 11:45-53",
+      "en": "John 11:45-53"
+    },
+    "idea": {
+      "es": "Después de que Jesús resucitó a Lázaro, muchos creyeron en Él. Pero otros vieron el mismo milagro y fueron a acusarlo ante los fariseos, y los líderes religiosos decidieron matarlo. La incredulidad nace de un corazón duro y de amar el poder y el dinero. Aun así, Dios usa a personas imperfectas, con la fe que tengan, para contarle al mundo de Jesús.",
+      "en": "After Jesus raised Lazarus, many believed in Him. But others saw the same miracle and went to report Him to the Pharisees, and the religious leaders decided to kill Him. Unbelief grows out of a hard heart and a love of power and money. Even so, God uses imperfect people, with whatever faith they have, to tell the world about Jesus."
+    },
+    "puntos": {
+      "es": [
+        "Muchos creyeron porque vieron el amor de Jesús cuando resucitó a Lázaro. El Pastor Mario contó que a él le gusta abrir el corazón de la gente con gestos de amor y tiempo, para luego compartirles el evangelio. Todos merecen escucharlo.",
+        "Algunos vieron el mismo milagro y fueron de chismosos a los fariseos. Así de duro puede ser el corazón humano, como el de Judas. Pidámosle a Dios un corazón blandito para creer, y no juzguemos por las apariencias, como le pasó al pastor con el joven pianista del concierto.",
+        "Los líderes tenían miedo de perder su lugar y su nación. Cuando el corazón de un líder está en las ganancias, se olvida de Dios y de las personas. Necesitamos comida, casa y seguro, pero si ponemos los ojos en Dios, esas cosas llegan como consecuencia. El amor al dinero es la raíz de todos los males.",
+        "Dios usa para Su gloria hasta lo malo que hacen las personas. Caifás, sin saberlo, profetizó que Jesús moriría por la nación y por reunir a los hijos de Dios. Además, en 1990 se halló el osario de Caifás, y eso confirma que los personajes de la Biblia existieron.",
+        "Somos envases imperfectos de la perfección de Dios. La pastora Nelly explicó que a algunos les conviene no creer, porque creer significa aceptar que Dios lo ve todo, aun en lo secreto. Jesús vino por los pecadores y nos invita a entregarle lo que tenemos escondido y a caminar con Él cada día."
+      ],
+      "en": [
+        "Many believed because they saw Jesus' love when He raised Lazarus. Pastor Mario shared that he likes to open people's hearts with acts of love and his time, and then share the gospel with them. Everyone deserves to hear it.",
+        "Some saw the same miracle and went to tell on Jesus to the Pharisees. That is how hard the human heart can be, like Judas's. Let's ask God for a soft heart that can believe, and let's not judge by appearances, as the pastor did with the young pianist at the concert.",
+        "The leaders were afraid of losing their place and their nation. When a leader's heart is set on profit, he forgets God and people. We need food, a home and insurance, but if we keep our eyes on God, those things come as a result. The love of money is the root of all evil.",
+        "God uses even people's evil for His glory. Without knowing it, Caiaphas prophesied that Jesus would die for the nation and to bring God's children together. Also, Caiaphas's ossuary was found in 1990, which confirms that the people in the Bible really existed.",
+        "We are imperfect vessels of God's perfection. Pastor Nelly explained that not believing is convenient for some, because believing means accepting that God sees everything, even in secret. Jesus came for sinners and invites us to hand Him what we keep hidden and to walk with Him every day."
+      ]
+    },
+    "versiculo": {
+      "es": "\"Entonces muchos de los judíos que habían venido para acompañar a María, y vieron lo que hizo Jesús, creyeron en él.\" — Juan 11:45",
+      "en": "\"Therefore many of the Jews who had come to visit Mary, and had seen what Jesus did, believed in him.\" — John 11:45"
+    },
+    "pregunta": {
+      "es": "¿Hay algo que escondemos de Dios o alguna área donde nos cuesta creer? ¿Qué gesto de amor podemos tener esta semana con alguien para compartirle de Jesús?",
+      "en": "Is there something we hide from God, or an area where it's hard for us to believe? What act of love can we show someone this week so we can share Jesus with them?"
+    },
+    "oracion": {
+      "es": "Padre, ayuda nuestra incredulidad. Danos un corazón blandito que crea en Ti. Tú sabes todo lo que hacemos, aun en lo secreto. Perdónanos y límpianos. Quita de nosotros el amor al dinero y el juzgar a los demás. Aunque somos imperfectos, úsanos para contarle a otros lo que Jesús ha hecho en nuestra vida. En el nombre de Jesús, amén.",
+      "en": "Father, help our unbelief. Give us a soft heart that believes in You. You know everything we do, even in secret. Forgive us and make us clean. Take away our love of money and our judging of others. Even though we are imperfect, use us to tell others what Jesus has done in our lives. In Jesus' name, amen."
+    }
+  },
+  {
     "video": "https://www.youtube.com/watch?v=ZB8SFBhX_Wg",
     "fecha": {
       "es": "1 de noviembre de 2026",
