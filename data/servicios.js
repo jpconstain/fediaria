@@ -6,6 +6,57 @@ const CHURCH_URL = "https://www.wwjdchurch.com/servicio";
 
 const SERVICIOS = [
   {
+    "video": "https://www.youtube.com/watch?v=4v4cUPeMU_s",
+    "fecha": {
+      "es": "15 de noviembre de 2026",
+      "en": "November 15, 2026"
+    },
+    "titulo": {
+      "es": "Matar al justo",
+      "en": "Killing the Righteous One"
+    },
+    "serie": {
+      "es": "Serie: Juan · Pr. Mario Ferro & Nelly Moreno",
+      "en": "Series: John · Pastors Mario Ferro & Nelly Moreno"
+    },
+    "pasaje": {
+      "es": "Juan 11:53-57",
+      "en": "John 11:53-57"
+    },
+    "idea": {
+      "es": "Basado en Juan 11:53-57, el pastor explica que, después de que Jesús resucitó a Lázaro, los líderes acordaron matarlo porque era justo y decía la verdad. Advierte que callar ante lo que hace la cultura nos vuelve parte de ella, y que la religión sin un corazón limpio puede volvernos hipócritas. Termina llamando a pedirle a Dios un corazón puro y a ser cada vez más como el justo.",
+      "en": "Based on John 11:53-57, the pastor explains that after Jesus raised Lazarus, the leaders agreed to kill him because he was righteous and spoke the truth. He warns that staying silent about what the culture does makes us part of it, and that religion without a clean heart can make us hypocrites. He closes by calling us to ask God for a pure heart and to become more like the righteous one."
+    },
+    "puntos": {
+      "es": [
+        "Jesús fue odiado por hacer lo bueno y decir la verdad. Después de resucitar a Lázaro, los líderes acordaron matarlo.",
+        "No oponerse a lo que hace la cultura nos hace parte de ella, aunque no lo digamos en voz alta.",
+        "La religión puede esconder un corazón impuro: los líderes se purificaban por fuera mientras planeaban un homicidio. Hay que examinar el juicio, la murmuración y la hipocresía.",
+        "Jesús se apartó a Efraín porque su hora no había llegado. Dios tiene su tiempo para cada cosa, y en la espera hay que orar y confiar.",
+        "La Palabra de Dios, no la tradición ni lo aprendido en el pasado, debe transformar nuestra forma de pensar y de actuar. Dios tiene una versión verdadera de cada persona."
+      ],
+      "en": [
+        "Jesus was hated for doing good and speaking the truth. After he raised Lazarus, the leaders agreed to kill him.",
+        "Not opposing what the culture does makes us part of it, even if we never say it out loud.",
+        "Religion can hide an impure heart: the leaders were ceremonially clean on the outside while planning a murder. We need to examine our judgment, gossip, and hypocrisy.",
+        "Jesus withdrew to Ephraim because his hour had not yet come. God has his timing for everything, and while we wait we pray and trust him.",
+        "God's Word, not tradition or what we learned in the past, should transform how we think and act. God has a true version of each person."
+      ]
+    },
+    "versiculo": {
+      "es": "\"Así que desde aquel día acordaron matarle.\" — Juan 11:53 (RVR1960)",
+      "en": "\"So from that day on they plotted to take his life.\" — John 11:53 (NIV)"
+    },
+    "pregunta": {
+      "es": "¿Me he quedado callado ante algo que está mal, como si fuera parte de la cultura? ¿Qué puedo cambiar esta semana para ser más como el justo?",
+      "en": "Have I stayed silent about something that is wrong, as if it were part of the culture? What can I change this week to be more like the righteous one?"
+    },
+    "oracion": {
+      "es": "Señor, purifica mis pensamientos y mi corazón. Líbrame de la hipocresía, del juicio y de la murmuración. Ayúdame a ser como el justo y a confiar en tu tiempo. En el nombre de Jesús, amén.",
+      "en": "Lord, purify my thoughts and my heart. Free me from hypocrisy, judgment, and gossip. Help me to be like the righteous one and to trust in your timing. In the name of Jesus, amen."
+    }
+  },
+  {
     "video": "https://www.youtube.com/watch?v=HNrxKBanwpM",
     "fecha": {
       "es": "8 de noviembre de 2026",
