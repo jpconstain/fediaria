@@ -6,6 +6,57 @@ const CHURCH_URL = "https://www.wwjdchurch.com/servicio";
 
 const SERVICIOS = [
   {
+    "video": "https://www.youtube.com/watch?v=5OdvYbQ27Q4",
+    "fecha": {
+      "es": "Domingo 22 de noviembre de 2026",
+      "en": "Sunday, November 22, 2026"
+    },
+    "titulo": {
+      "es": "Nardo puro",
+      "en": "Pure Nard"
+    },
+    "serie": {
+      "es": "Serie: Juan · Pr. Mario Ferro y Nelly Moreno",
+      "en": "Series: John · Pastors Mario Ferro and Nelly Moreno"
+    },
+    "pasaje": {
+      "es": "Juan 12:1-8",
+      "en": "John 12:1-8"
+    },
+    "idea": {
+      "es": "María entendió con el corazón lo que otros no entendían con la mente. Ella puso a Jesús primero, con lo mejor que tenía, y el mensaje invita a hacer lo mismo: dar a Dios lo primero y no solo lo que sobra. Los testimonios de salud compartidos en el servicio no son consejo médico.",
+      "en": "Mary understood with her heart what others did not grasp with their minds. She put Jesus first and gave him her best, and the message invites us to do the same: give God the first place, not just what is left over. The health testimonies shared in the service are not medical advice."
+    },
+    "puntos": {
+      "es": [
+        "Juan 12 muestra la cena en Betania: Lázaro, resucitado, estaba a la mesa con Jesús. María tomó un perfume de nardo puro, muy caro, y ungió los pies de Jesús con él.",
+        "Judas criticó el gesto diciendo que el perfume podía venderse para los pobres. El pastor explicó que Juan dice que Judas era ladrón y que no le importaban los pobres.",
+        "Jesús dijo: «Déjala». Según el mensaje, no decía que los pobres no importen, sino que ese día la prioridad era ungirlo para su sepultura.",
+        "Marta servía con afán y María se sentaba a los pies de Jesús. Jesús dijo que María escogió la mejor parte (Lucas 10). Hace falta equilibrio entre servir y pasar tiempo con Dios.",
+        "La pregunta del servicio fue: ¿qué le das tú a Jesús? Dar lo primero, no lo que sobra, es lo que permite estar firmes en la prueba y dejar que el temor se vaya. Se animó a dar un paso más en oración, lectura de la Biblia y servicio, y a cuidar en qué se gasta el tiempo."
+      ],
+      "en": [
+        "John 12 shows the dinner in Bethany: Lazarus, raised from the dead, was at the table with Jesus. Mary took a very expensive jar of pure nard and anointed Jesus' feet with it.",
+        "Judas criticized the act, saying the perfume could have been sold for the poor. The pastor explained that John says Judas was a thief and did not really care about the poor.",
+        "Jesus said, \"Leave her alone.\" According to the message, he was not saying the poor do not matter, but that the priority that day was anointing him for his burial.",
+        "Martha served busily while Mary sat at Jesus' feet. Jesus said Mary chose the better part (Luke 10). The message called for balance between serving and spending time with God.",
+        "The question of the service was: what do you give to Jesus? Giving him the first place, not what is left over, is what keeps us steady in trials and lets fear go. People were encouraged to take one more step in prayer, Bible reading, and service, and to watch how they spend their time."
+      ]
+    },
+    "versiculo": {
+      "es": "\"Entonces María tomó una libra de perfume de nardo puro, de mucho precio, y ungió los pies de Jesús, y los enjugó con sus cabellos; y la casa se llenó del olor del perfume.\" — Juan 12:3",
+      "en": "\"Then Mary took about a pint of pure nard, an expensive perfume; she poured it on Jesus' feet and wiped his feet with her hair. And the house was filled with the fragrance of the perfume.\" — John 12:3"
+    },
+    "pregunta": {
+      "es": "¿Qué lugar ocupa Jesús en tu corazón hoy: es lo primero o solo lo que queda de tu tiempo y energía?",
+      "en": "What place does Jesus have in your heart today: is he first, or only what is left of your time and energy?"
+    },
+    "oracion": {
+      "es": "Padre, reconozco que a veces pongo otras cosas primero. Hoy quiero ponerte en el primer lugar de mi corazón, darte lo mejor de mi tiempo y ayudarme a escuchar tu voz más que mis temores. Quita el temor de mi vida y hazme una persona que te ama. En el nombre de Jesús. Amén.",
+      "en": "Father, I admit that sometimes I put other things first. Today I want to put you in first place in my heart, give you the best of my time, and help me hear your voice more than my fears. Take away the fear in my life and make me a person who loves you. In the name of Jesus. Amen."
+    }
+  },
+  {
     "video": "https://www.youtube.com/watch?v=4v4cUPeMU_s",
     "fecha": {
       "es": "15 de noviembre de 2026",
